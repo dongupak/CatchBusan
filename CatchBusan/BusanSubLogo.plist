@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>BukGu</string>
+	<string>DongGu</string>
+	<string>DongRaeGu</string>
+	<string>GangSeoGu</string>
+	<string>GeumJeongGu</string>
+	<string>GiJangGun</string>
+	<string>HaeUndaeGu</string>
+	<string>JinGu</string>
+	<string>JungGu</string>
+	<string>NamGu</string>
+	<string>SaHaGu</string>
+	<string>SaSangGu</string>
+	<string>SuYeongGu</string>
+	<string>YeongDoGu</string>
+	<string>YeonJeGu</string>
+</array>
+</plist>
